@@ -1,12 +1,5 @@
 <div align="center">
-<video 
-  alt="Fazal's Portfolio" 
-  src="https://res.cloudinary.com/dfn1w6gts/video/upload/v1740645570/portfolio-web_yy1qef.mp4" 
-  autoplay 
-  loop 
-  muted 
-  playsinline 
-></video>
+<img alt="Fazal's portfolio" src="https://res.cloudinary.com/dfn1w6gts/video/upload/f_gif/v1740645570/portfolio-web_yy1qef.gif"/>
 
 </div>
 
