@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Fazal's portfolio" src="https://res.cloudinary.com/dfn1w6gts/video/upload/f_gif/v1740645570/portfolio-web_yy1qef.gif"/>
+<img alt="Fazal's portfolio" src="https://res.cloudinary.com/dfn1w6gts/image/upload/v1740646989/portfolio-web_cci1nx.gif"/>
 
 </div>
 
