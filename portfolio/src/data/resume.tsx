@@ -125,7 +125,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://www.youtube.com/embed/C3cjCxLPg6g?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=C3cjCxLPg6g&start=183",
+      video: "https://www.youtube.com/embed/DSEclDnxSDM?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=DSEclDnxSDM&start=183",
     },
     {
       title: "Furniro - An E-Commerce Application ",
@@ -161,7 +161,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://www.youtube.com/embed/8BYrrZU00Cc?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=8BYrrZU00Cc",
+      video: "https://www.youtube.com/embed/06jgkGN9M2Q?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=06jgkGN9M2Q",
     },
     {
       title: "Ketodalia",
@@ -190,7 +190,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video:"https://www.youtube.com/embed/K8HfMID8iuc?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=K8HfMID8iuc&start=183",
+      video:"https://www.youtube.com/embed/e-2jTREPvok?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=e-2jTREPvok&start=183",
     },
     {
       title: "Gokyo Pro",
@@ -217,7 +217,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://www.youtube.com/embed/hpxUIp95PMQ?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=hpxUIp95PMQ",
+      video: "https://www.youtube.com/embed/7-TnkHDN6WU?autoplay=1&loop=1&mute=1&controls=0&rel=0&playlist=7-TnkHDN6WU",
     },
   ],
   hackathons: [
